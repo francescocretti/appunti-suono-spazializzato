@@ -118,6 +118,8 @@ Per la codifica/decodifica e gestione del suono spazializzato sono necessari plu
 * [HARPEX](https://harpex.net/) - spatial audio formats cross-coding algorithm
 * [Blue Ripple Sound O3A](http://www.blueripplesound.com/) - suite (con effetti spazializzati)
 * [Waves 360° Ambisonics Tools](https://www.waves.com/hardware/360-ambisonics-tools)
+* [Suite open source dell'IEM (Gratz)](https://plugins.iem.at/)
+* [Sparta, open-source VST plug-in](http://research.spa.aalto.fi/projects/sparta_vsts/)
 
 ## FB360 Spatial Audio Workstation
 [Facebook360 Spatial Audio Workstation](https://facebook360.fb.com/spatial-workstation/) (*FB260 SAW*) è una suite di strumenti completa e gratuita per il design e la codifica di contenuti audio spazializzati per il VR.
